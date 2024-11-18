@@ -73,7 +73,7 @@ Key payload functions include:
 
 #### **2.4 AES-256 Encryption Module: *Crypter***
 
-The AES-256 module (*Crypter*) is the ransomware’s primary data encryption tool. Developed in **C++**, it was optimized for speed, cross-platform compatibility, and minimal memory footprint. After encountering compilation issues with the Crypto++ library on Windows, a custom implementation of AES-256 (sourced and adapted from Danillo Treffiletti’s open-source repository) was used.
+The AES-256 module (*Crypter*) is the ransomware’s primary data encryption tool. Developed in **C++**, it was optimized for speed, cross-platform compatibility, and minimal memory footprint. After encountering compilation issues with the Crypto++ library on Windows, a custom implementation of AES-256 (sourced and adapted from Danillo Treffiletti’s open-source repository : https://github.com/Urban82/Aes256 ) was used.
 
 **Operational Details:**
 - *Crypter* operates in two modes: `"encrypt"` and `"decrypt"`.
