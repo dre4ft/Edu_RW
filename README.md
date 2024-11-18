@@ -3,14 +3,16 @@ Cybersecurity MSc final project study :
 A basic Ransomware levraging CVE-2023-38831
 
 
-# **Disclaimer**
+## **/!\Disclaimer/!\**
 
 This project is intended **exclusively for educational purposes** and as a demonstration of technical competency in cybersecurity. The ransomware built here is not operational as a malicious tool. It was never intended for deployment in real-world environments and lacks the resilience or features of functional ransomware used by threat actors.  
 
 Additionally, the project underscores the ethical responsibility tied to such work. Developing malware, even for research purposes, requires strict adherence to legal and ethical guidelines. Unauthorized use, testing, or distribution of such tools is illegal and unethical, and I strongly condemn any such activity.  
 
 By sharing this proof-of-concept responsibly, I aim to contribute to cybersecurity education and research, helping organizations better understand and defend against emerging threats.
+
 ---
+
 ### **1. Introduction**
 
 This project aims to develop a proof-of-concept (PoC) ransomware that demonstrates realistic attack techniques using concepts and methodologies observed in contemporary ransomware campaigns. The implementation leverages modern vulnerabilities and best practices in attack-chain development, providing a thorough exploration of the lifecycle of ransomware.
