@@ -3,7 +3,7 @@ Cybersecurity MSc final project study :
 A basic Ransomware levraging CVE-2023-38831
 
 
-## **/!\Disclaimer/!\**
+## ** /!\Disclaimer/!\ **
 
 This project is intended **exclusively for educational purposes** and as a demonstration of technical competency in cybersecurity. The ransomware built here is not operational as a malicious tool. It was never intended for deployment in real-world environments and lacks the resilience or features of functional ransomware used by threat actors.  
 
